@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @honey-patel25
 - 👀 I’m interested in coding,developing ...
-- 🌱 I’m currently learning languages likr python,c++,JAVA
+- 🌱 I’m currently learning languages like python,c++,JAVA
 - 💞️ I’m looking to collaborate on Cyber security programs 
 - 📫 How to reach me-mail me on hiteshreep25@gmail.com
 
